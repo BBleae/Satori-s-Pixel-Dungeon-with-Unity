@@ -1,0 +1,10 @@
+{
+    "name": "QFramework.BindKit",
+    "references": [
+        "QFramework.IOC"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

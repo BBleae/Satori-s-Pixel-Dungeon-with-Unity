@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: f4f47471590ba944b9be4ce3dde38c02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1301815183739471747
+    second: warlock_0
+  - first:
+      213: -8907479003510519193
+    second: warlock_1
+  - first:
+      213: -8155076294053192904
+    second: warlock_2
+  - first:
+      213: 3569661353309892410
+    second: warlock_3
+  - first:
+      213: -2800130793295934593
+    second: warlock_4
+  - first:
+      213: 7251208949749148819
+    second: warlock_5
+  - first:
+      213: 8306392979929032122
+    second: warlock_6
+  - first:
+      213: 8336282399552811617
+    second: warlock_7
+  - first:
+      213: 2435187446477001854
+    second: warlock_8
+  - first:
+      213: -9039604529551206129
+    second: warlock_9
+  - first:
+      213: 8869689620529254371
+    second: warlock_10
+  - first:
+      213: -474679065048123901
+    second: warlock_11
+  - first:
+      213: 7631320569472925010
+    second: warlock_12
+  - first:
+      213: 1073824786504393253
+    second: warlock_13
+  - first:
+      213: -2312764338585564473
+    second: warlock_14
+  - first:
+      213: 7319163044584495887
+    second: warlock_15
+  - first:
+      213: -8427245384227128869
+    second: warlock_16
+  - first:
+      213: 2098866340684572819
+    second: warlock_17
+  - first:
+      213: -4254754673180366312
+    second: warlock_18
+  - first:
+      213: 4845946400885710633
+    second: warlock_19
+  - first:
+      213: -4153233160417035127
+    second: warlock_20
+  - first:
+      213: 5699202518510932695
+    second: warlock_21
+  - first:
+      213: -4932967142079211143
+    second: warlock_22
+  - first:
+      213: 390944051509930765
+    second: warlock_23
+  - first:
+      213: 6703859152112798443
+    second: warlock_24
+  - first:
+      213: 3356169131260605821
+    second: warlock_25
+  - first:
+      213: -459222524909814587
+    second: warlock_26
+  - first:
+      213: 6988534968480389066
+    second: warlock_27
+  - first:
+      213: -2807597440861935662
+    second: warlock_28
+  - first:
+      213: -3134886125353400613
+    second: warlock_29
+  - first:
+      213: 2334121326038581777
+    second: warlock_30
+  - first:
+      213: 8676688722021062333
+    second: warlock_31
+  - first:
+      213: -2425298294594701954
+    second: warlock_32
+  - first:
+      213: -8053631687583566432
+    second: warlock_33
+  - first:
+      213: 6989488702472765008
+    second: warlock_34
+  - first:
+      213: 899106637852330028
+    second: warlock_35
+  - first:
+      213: 2215457910437521360
+    second: warlock_36
+  - first:
+      213: 4388009027277795918
+    second: warlock_37
+  - first:
+      213: -9047472251454191523
+    second: warlock_38
+  - first:
+      213: 271470707405525116
+    second: warlock_39
+  - first:
+      213: -6279037255735995796
+    second: warlock_40
+  - first:
+      213: -7894789737596367546
+    second: warlock_41
+  - first:
+      213: 75988076648633002
+    second: warlock_42
+  - first:
+      213: -6831219889651245417
+    second: warlock_43
+  - first:
+      213: -9149266874301057363
+    second: warlock_44
+  - first:
+      213: -2678319886032956500
+    second: warlock_45
+  - first:
+      213: 8627482898315745090
+    second: warlock_46
+  - first:
+      213: 4524490063306619350
+    second: warlock_47
+  - first:
+      213: 7043304215624228376
+    second: warlock_48
+  - first:
+      213: -8310949756361636600
+    second: warlock_49
+  - first:
+      213: 2589666489368974431
+    second: warlock_50
+  - first:
+      213: 6798058516736215054
+    second: warlock_51
+  - first:
+      213: 4151130594902677885
+    second: warlock_52
+  - first:
+      213: -4390191710610104585
+    second: warlock_53
+  - first:
+      213: -7224779009092765699
+    second: warlock_54
+  - first:
+      213: -5251274578880852121
+    second: warlock_55
+  - first:
+      213: 4626329896601645868
+    second: warlock_56
+  - first:
+      213: -2286720305217365990
+    second: warlock_57
+  - first:
+      213: 2272740636454284428
+    second: warlock_58
+  - first:
+      213: -7499418719180017186
+    second: warlock_59
+  - first:
+      213: 7651390557949179227
+    second: warlock_60
+  - first:
+      213: 6921454003881016167
+    second: warlock_61
+  - first:
+      213: 8133731255908850759
+    second: warlock_62
+  - first:
+      213: 6609531281101165222
+    second: warlock_63
+  - first:
+      213: 8801220497499011119
+    second: warlock_64
+  - first:
+      213: 5900956095075823329
+    second: warlock_65
+  - first:
+      213: -1256758805867032469
+    second: warlock_66
+  - first:
+      213: 2917932681050171837
+    second: warlock_67
+  - first:
+      213: 8827161642597686458
+    second: warlock_68
+  - first:
+      213: -7482939892567044991
+    second: warlock_69
+  - first:
+      213: 712047516913885288
+    second: warlock_70
+  - first:
+      213: -3095906039240274629
+    second: warlock_71
+  - first:
+      213: -1172931810799196273
+    second: warlock_72
+  - first:
+      213: 5830012680313042566
+    second: warlock_73
+  - first:
+      213: 2637934778052425785
+    second: warlock_74
+  - first:
+      213: 9094196856507603235
+    second: warlock_75
+  - first:
+      213: -46759657626568740
+    second: warlock_76
+  - first:
+      213: 2501421638240972475
+    second: warlock_77
+  - first:
+      213: 5025136275083459669
+    second: warlock_78
+  - first:
+      213: -8378039272378487062
+    second: warlock_79
+  - first:
+      213: 1129855573454874359
+    second: warlock_80
+  - first:
+      213: -4778401556454104095
+    second: warlock_81
+  - first:
+      213: 6676745497611019017
+    second: warlock_82
+  - first:
+      213: 7540643882969389708
+    second: warlock_83
+  - first:
+      213: 3087894054315421442
+    second: warlock_84
+  - first:
+      213: -6248132221097811266
+    second: warlock_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warlock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78bff9dcf50fede0800000000000000
+      internalID: -1301815183739471747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a41874a07426480800000000000000
+      internalID: -8907479003510519193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b10c8615953de80800000000000000
+      internalID: -8155076294053192904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe974861cf98130800000000000000
+      internalID: 3569661353309892410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b86f411efe329d0800000000000000
+      internalID: -2800130793295934593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6ee90f1871a460800000000000000
+      internalID: 7251208949749148819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5e775f76c364370800000000000000
+      internalID: 8306392979929032122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162bfa4ccac60b370800000000000000
+      internalID: 8336282399552811617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7490c494168bc120800000000000000
+      internalID: 2435187446477001854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f099612039fdc8280800000000000000
+      internalID: -9039604529551206129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlock_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef8d9b57b7771b70800000000000000
+      internalID: 8869689620529254371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3136201003
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: buttonhighlight_shader
+      Dependencies: {}
+    Info_1:
+      Name: buttonhighlight_mat
+      Dependencies: {}

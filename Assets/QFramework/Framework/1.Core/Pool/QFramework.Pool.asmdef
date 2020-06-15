@@ -1,0 +1,8 @@
+{
+    "name": "QFramework.Pool",
+    "references": [
+        "QFramework.Singleton"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
